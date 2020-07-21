@@ -979,6 +979,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@dngrhm/test-component-lib@^0.1.0":
+  version "0.1.0"
+  resolved "https://npm.pkg.github.com/download/@dngrhm/test-component-lib/0.1.0/584439e5c1d6c960aeaf2eef8465379c411ccf9fd45d9b337ca78168a7c5b3b6#b462e44b717078344e52c4b5d5d2c52ac6097a7c"
+  integrity sha512-8JazEFOLvN2s7E3Ydr/SUXy5w7o26Tpym6sdo6NrACckVu40v3b9sGgRPpddzxc3ZdweJTnqwNoEmo0KAXcU+A==
+
 "@graphql-tools/schema@^6.0.9":
   version "6.0.11"
   resolved "https://registry.yarnpkg.com/@graphql-tools/schema/-/schema-6.0.11.tgz#4623c3662a8843822e36139855504ef8d7d89088"

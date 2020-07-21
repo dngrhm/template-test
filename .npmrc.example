@@ -1,0 +1,3 @@
+//npm.pkg.github.com/:_authToken=<your auth token from github>
+@dngrhm:registry=https://npm.pkg.github.com
+always-auth=true
