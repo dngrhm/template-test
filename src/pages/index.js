@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import {Button} from "@dngrhm/test-component-lib"
+import {Button} from "@whitelabelco/wlabel-template-ui"
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
@@ -15,7 +15,7 @@ const IndexPage = () => (
       <Image />
     </div>
     <Button
-        text="Hello"
+        buttonText="this is an example!"
         onClick={() => console.log("clicked!")}
       />
     <Link to="/page-2/">Go to page 2</Link> <br />
